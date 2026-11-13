@@ -36,6 +36,13 @@ I turn ideas into working systems and help server owners bring their projects to
 | **Breeze Bedrock** | Free-for-all PvP arena plugin for Bedrock servers | Endstone, Python |
 | [**CNMB ARENA**](https://github.com/jhnslcc-studio/CNMB-ARENA-SERVER) | Tag team match system with a custom behavior pack and resource pack | Behavior Pack, Resource Pack, JavaScript |
 
+<p align="center">
+  <img src="https://jhnslcc-studio.github.io/img/breeze-bedrock.jpg" width="49%" alt="Breeze Bedrock lobby"/>
+  <img src="https://jhnslcc-studio.github.io/img/cnmb-arena.jpg" width="49%" alt="CNMB ARENA waiting lobby"/>
+</p>
+
+<p align="center"><sub>Breeze Bedrock (left) and CNMB ARENA (right), in-game</sub></p>
+
 ---
 
 ## 🚀 What I Do
